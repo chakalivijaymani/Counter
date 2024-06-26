@@ -14,6 +14,7 @@ incre.addEventListener('click', function(){
     result+=1;
     cnt.textContent = result;
     cnt.style.color='green';
+   
 
 });
 decre.addEventListener('click', function(){
