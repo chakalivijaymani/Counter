@@ -9,6 +9,7 @@ rst.addEventListener('click', function(){
     result=0;
     cnt.textContent = result;
     cnt.style.color='black';
+    
 })
 incre.addEventListener('click', function(){
     result+=1;
@@ -24,4 +25,11 @@ decre.addEventListener('click', function(){
 
 });
 
+//function for the changing the button color.
+// function chg1(){
+//     rst.style.backgroundColor='#D3D3D3'
+// }
+// function chg2(){
+//     rst.style.backgroundColor=''
+// }
 
